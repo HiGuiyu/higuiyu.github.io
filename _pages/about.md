@@ -54,9 +54,9 @@ Yunpeng Song, Yiheng Bian, Yongtao Tang, **Guiyu Ma**, Zhongmin Cai
 - *2019.09 - 2023.06*, B.E. in Digital Media Technology, Central China Normal University.
 
 # 💻 Internships
-- <img src='images/logos/mihoyo.png' class='intern-logo'> *2026.02 - present*, miHoYo.
-- <img src='images/logos/taobao.png' class='intern-logo'> *2026.05 - 2026.09*, Taobao (Alibaba).
-- <img src='images/logos/hithink.png' class='intern-logo'> *2026.02 - 2026.05*, Hithink RoyalFlush (同花顺).
-- <img src='images/logos/xiaomi.png' class='intern-logo'> *2023.06 - 2023.09*, Xiaomi.
-- <img src='images/logos/momenta.png' class='intern-logo'> *2022.12 - 2023.04*, Momenta.
-- <img src='images/logos/vivo.png' class='intern-logo'> *2021.06 - 2021.09*, vivo.
+- <img src='images/logos/mihoyo.png' class='intern-logo'> **miHoYo**, *2026.02 - present*.
+- <img src='images/logos/taobao.png' class='intern-logo'> **Taobao (Alibaba)**, *2026.05 - 2026.09*.
+- <img src='images/logos/hithink.png' class='intern-logo'> **Hithink RoyalFlush (同花顺)**, *2026.02 - 2026.05*.
+- <img src='images/logos/mi.png' class='intern-logo'> **Xiaomi**, *2023.06 - 2023.09*.
+- <img src='images/logos/momenta.png' class='intern-logo'> **Momenta**, *2022.12 - 2023.04*.
+- <img src='images/logos/vivo.svg' class='intern-logo'> **vivo**, *2021.06 - 2021.09*.
