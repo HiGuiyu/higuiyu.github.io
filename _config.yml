@@ -25,7 +25,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Guiyu Ma"
   avatar           : "images/profile.jpeg"
-  bio              : "Researcher in multimodal LLMs, GUI agents, and agentic RL."
+  bio              : "MLLM, VLA & Agent RL."
   location         : "Beijing, China"
   employer         : "Xi'an Jiaotong University (XJTU)"
   pubmed           : 

@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Guiyu Ma (马桂雨)**, a researcher working on **multimodal large language models (MLLMs)**, **GUI agents**, and **agentic reinforcement learning**. I received my M.S. in Control Science and Engineering from Xi'an Jiaotong University (XJTU) in 2026, and my B.E. in Digital Media Technology from Central China Normal University in 2023.
+I am **Guiyu Ma (马桂雨)**, an algorithm researcher working on **multimodal large language models (MLLMs)**, **vision-language-action (VLA)** models, and **agentic reinforcement learning**. I received my M.S. in Control Science and Engineering from Xi'an Jiaotong University (XJTU) in 2026, and my B.E. in Digital Media Technology from Central China Normal University in 2023.
 
 My research focuses on building vision-based agents that can understand graphical user interfaces and complete real-world tasks, combining multimodal perception, large language model planning, and reinforcement learning. My research interests include multimodal large language models (MLLMs), GUI agents and mobile task automation, and agentic reinforcement learning.
 
