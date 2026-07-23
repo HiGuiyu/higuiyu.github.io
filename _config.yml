@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Guiyu Ma"
-description              : "Personal academic homepage of Guiyu Ma, researcher in multimodal LLMs, GUI agents, and agentic RL."
+description              : "Mainpage of Guiyu Ma, researcher in LLM and AI Agents."
 repository               : "HiGuiyu/higuiyu.github.io"
 url                      : "https://higuiyu.github.io"
 baseurl                  : ""
@@ -25,12 +25,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Guiyu Ma"
   avatar           : "images/profile.jpeg"
-  bio              : "MLLM, VLA & Agent RL."
-  location         : "Beijing, China"
-  employer         : "Xi'an Jiaotong University (XJTU)"
+  bio              : "AI Researcher"
+  location         : "Hangzhou, China"
+  employer         : "Ant Group"
   pubmed           : 
   googlescholar    : # e.g., "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "guiyu.ma@stu.xjtu.edu.cn"
+  email            : "hi.guiyu.ma@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

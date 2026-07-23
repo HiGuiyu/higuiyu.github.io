@@ -10,11 +10,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Guiyu Ma (马桂雨)**, an algorithm researcher working on **multimodal large language models (MLLMs)**, **vision-language-action (VLA)** models, and **agentic reinforcement learning**. I received my M.S. in Control Science and Engineering from Xi'an Jiaotong University (XJTU) in 2026, and my B.E. in Digital Media Technology from Central China Normal University in 2023.
+I am **Guiyu Ma (马桂雨)**, an algorithm researcher working on large language models and AI agents, with the goal of turning advances in LLMs and agents into AI products that improve everyday life. I received my M.S. in Control Science and Engineering from Xi'an Jiaotong University in 2026, and my B.E. in Digital Media Technology from Central China Normal University in 2023.
 
-My research focuses on building vision-based agents that can understand graphical user interfaces and complete real-world tasks, combining multimodal perception, large language model planning, and reinforcement learning. My research interests include multimodal large language models (MLLMs), GUI agents and mobile task automation, and agentic reinforcement learning.
+My research focuses on building vision-based agents that can understand graphical user interfaces and complete real-world tasks, combining multimodal perception, LLM-based planning, and post-training. Through several industry internships, I have worked on LLM/MLLM post-training, LLM evaluation, agent frameworks, and practical AI applications.
 
-Feel free to reach me at <a href='mailto:guiyu.ma@stu.xjtu.edu.cn'>guiyu.ma@stu.xjtu.edu.cn</a>.
+Feel free to reach me at <a href='mailto:hi.guiyu.ma@gmail.com'>hi.guiyu.ma@gmail.com</a>.
 
 # 🔥 News
 - *2026.04*: &nbsp;🎉🎉 Our paper *DroidRetriever* is accepted by **CHI 2026**.
@@ -22,27 +22,29 @@ Feel free to reach me at <a href='mailto:guiyu.ma@stu.xjtu.edu.cn'>guiyu.ma@stu.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<p style="font-size: 0.85em; color: gray; margin-top: -0.5em;"><sup>*</sup> Corresponding author.</p>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026</div><img src='images/droidretriever.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DroidRetriever: A Transparent and Steerable Automation System for Collaborative Mobile Information Seeking](https://dl.acm.org/doi/epdf/10.1145/3772318.3790396)
 
-Yiheng Bian, Yunpeng Song, **Guiyu Ma**, Rongrong Zhu, Zhongmin Cai
+Yiheng Bian, Yunpeng Song<sup>*</sup>, **Guiyu Ma**, Rongrong Zhu, Zhongmin Cai<sup>*</sup>
 
 [**Paper**](https://dl.acm.org/doi/epdf/10.1145/3772318.3790396)
-- A transparent and steerable automation system for collaborative mobile information seeking, allowing users to understand and guide the agent's behavior during task execution.
+- A transparent and steerable agentic system for collaborative mobile information seeking, where users can understand and guide the agent's behavior throughout task execution.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2024</div><img src='images/visiontasker.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [VisionTasker: Mobile Task Automation Using Vision Based UI Understanding and LLM Task Planning](https://dl.acm.org/doi/epdf/10.1145/3654777.3676386)
 
-Yunpeng Song, Yiheng Bian, Yongtao Tang, **Guiyu Ma**, Zhongmin Cai
+Yunpeng Song, Yiheng Bian, Yongtao Tang, **Guiyu Ma**, Zhongmin Cai<sup>*</sup>
 
-[**Paper**](https://dl.acm.org/doi/epdf/10.1145/3654777.3676386)
-- A mobile task automation framework that combines vision-based UI understanding with LLM task planning, enabling agents to operate mobile applications without relying on view hierarchies.
+[**Paper**](https://dl.acm.org/doi/epdf/10.1145/3654777.3676386) [**News**](https://www.mittrchina.com/news/detail/14006)
+- A mobile task automation agent that understands UIs through purely vision-based perception and plans with an LLM, operating applications without relying on view hierarchies.
 </div>
 </div>
 
@@ -50,13 +52,13 @@ Yunpeng Song, Yiheng Bian, Yongtao Tang, **Guiyu Ma**, Zhongmin Cai
 - *2022* National Scholarship.
 
 # 📖 Educations
-- *2023.09 - 2026.06*, M.S. in Control Science and Engineering, Xi'an Jiaotong University (XJTU).
-- *2019.09 - 2023.06*, B.E. in Digital Media Technology, Central China Normal University.
+- *2023.09 - 2026.06*, M.S. in Control Science and Engineering, Xi'an Jiaotong University.
+- *2018.09 - 2023.06*, B.E. in Digital Media Technology, Central China Normal University.
 
 # 💻 Internships
-- <img src='images/logos/mihoyo.png' class='intern-logo'> **miHoYo**, *2026.02 - present*.
-- <img src='images/logos/taobao.png' class='intern-logo'> **Taobao (Alibaba)**, *2026.05 - 2026.09*.
-- <img src='images/logos/hithink.png' class='intern-logo'> **Hithink RoyalFlush (同花顺)**, *2026.02 - 2026.05*.
-- <img src='images/logos/mi.png' class='intern-logo'> **Xiaomi**, *2023.06 - 2023.09*.
-- <img src='images/logos/momenta.png' class='intern-logo'> **Momenta**, *2022.12 - 2023.04*.
-- <img src='images/logos/vivo.svg' class='intern-logo'> **vivo**, *2021.06 - 2021.09*.
+- <img src='images/logos/mihoyo.png' class='intern-logo'> *2026.02 - 2026.06*, Lumi, miHoYo.
+- <img src='images/logos/taobao.png' class='intern-logo'> *2025.05 - 2025.09*, Taobao, Alibaba.
+- <img src='images/logos/hithink.png' class='intern-logo'> *2025.02 - 2025.05*, HiThink, RoyalFlush.
+- <img src='images/logos/mi.png' class='intern-logo'> *2023.06 - 2023.09*, Tech Committee, Xiaomi.
+- <img src='images/logos/momenta.png' class='intern-logo'> *2022.12 - 2023.04*, SystemPM, Momenta.
+- <img src='images/logos/vivo.svg' class='intern-logo'> *2021.06 - 2021.09*, ECO Dept., vivo.
