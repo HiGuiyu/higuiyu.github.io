@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Guiyu Ma"
-description              : "Mainpage of Guiyu Ma, researcher in LLM and AI Agents."
+description              : "Guiyu Ma — AI Researcher working on Large Language Models and Multimodal Agents."
 repository               : "HiGuiyu/higuiyu.github.io"
 url                      : "https://higuiyu.github.io"
 baseurl                  : ""
