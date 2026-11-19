@@ -1,0 +1,34 @@
+_config.yml
+  h_fff4a2ab6f63c4 10
+_data/navigation.yml
+  h_fff4a2ab6f63c4 1,6-8,12-13,17-19
+_includes/author-profile.html
+  h_fff4a2ab6f63c4 8,29,65,124
+_includes/head.html
+  h_fff4a2ab6f63c4 17
+_includes/head/custom.html
+  h_fff4a2ab6f63c4 1-3
+_includes/masthead.html
+  h_fff4a2ab6f63c4 7,9,16
+_includes/scripts.html
+  h_fff4a2ab6f63c4 3,5
+_pages/about.md
+  h_fff4a2ab6f63c4 13,15,17,23,25-36,38-40,45,52,57,59,64,69-77
+_sass/_sidebar.scss
+  h_fff4a2ab6f63c4 101,104-106
+assets/css/main.scss
+  h_fff4a2ab6f63c4 49-50,63-70,117-118,130-139
+images/favicon.svg
+  h_fff4a2ab6f63c4 2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "3f90708d53121730b775519c9d42f4edcbb7c904",
+  "prompts": {},
+  "humans": {
+    "h_fff4a2ab6f63c4": {
+      "author": "Guiyu Ma <hi.guiyu.ma@gmail.com>"
+    }
+  }
+}
